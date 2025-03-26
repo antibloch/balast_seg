@@ -5,6 +5,9 @@
 
  # Difference of With and Without DiffBIR
 
+ ![image](https://github.com/user-attachments/assets/43026c65-0aba-4176-8a38-adc8316ac50b)
+
+
 ## With DiffBIR Image Restoration (IR)
 
 ![ir_improved_v2_result](https://github.com/user-attachments/assets/fbb675c8-2367-4eab-af42-686cade90aa5)
