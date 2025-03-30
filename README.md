@@ -29,3 +29,9 @@
 
 
 ![Figure_1](https://github.com/user-attachments/assets/daa90eb6-a859-4fb3-ba57-572d04a1dbcf)
+
+
+
+# Project The Segmentation to Point Cloud
+
+![Screenshot from 2025-03-14 13-59-22](https://github.com/user-attachments/assets/5ea74fdf-3990-4a1f-a0bb-9c97c7a99246)
