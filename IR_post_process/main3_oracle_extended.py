@@ -326,6 +326,10 @@ def find_rail_tracks(
     balast_smooth_seg = cv2.addWeighted(ref_img_railbed, 0.5, balast_smooth_seg, 0.5, 0)
 
 
+    # save track_gaussian_masked_image
+    cv2.imwrite("track_gaussian_masked_image.png", track_gaussian_masked_image)
+
+
     if debug:
         # Display the results
         plt.figure(figsize=(20, 10))

@@ -98,10 +98,6 @@
 ## <a name="installation"></a>:gear:Installation
 
 ```shell
-# clone this repo
-git clone https://github.com/XPixelGroup/DiffBIR.git
-cd DiffBIR
-
 # create environment
 conda create -n diffbir python=3.10
 conda activate diffbir

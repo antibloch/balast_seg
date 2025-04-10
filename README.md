@@ -3,6 +3,23 @@
  orthographic_projection -> DiffBIR -> IR_post_process -> orthographic_projection
 
 
+
+## Environment Setup
+
+```bash
+
+chmod +x scripts/*
+./scripts/env1.sh
+./scripts/env2.sh
+./scripts/run.sh
+```
+
+
+
+```bash
+
+```
+
  # Difference of With and Without DiffBIR
 
  ![image](https://github.com/user-attachments/assets/43026c65-0aba-4176-8a38-adc8316ac50b)
@@ -35,3 +52,6 @@
 # Project The Segmentation to Point Cloud
 
 ![Screenshot from 2025-03-14 13-59-22](https://github.com/user-attachments/assets/5ea74fdf-3990-4a1f-a0bb-9c97c7a99246)
+
+
+

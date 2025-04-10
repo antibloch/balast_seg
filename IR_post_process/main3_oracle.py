@@ -202,9 +202,9 @@ if __name__ == "__main__":
     # image_path = "2.png"
     # image_path = "4.png"
     # image_path = "preprocessed_ir_orthoimage.png"
-    image_path = "preprocessed_orthoimage.png"
+    image_path = "orthoimage_IR.png"
     detect_rail_stuff(image_path, 
-                      otsu_thr= 0.3, 
+                      otsu_thr= 0.35, 
                       min_sato = 50, 
                       min_rail_line = 50,
                       debug=True, 
