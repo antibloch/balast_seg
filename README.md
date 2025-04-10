@@ -11,7 +11,7 @@
 chmod +x scripts/*
 ./scripts/env1.sh
 ./scripts/env2.sh
-./scripts/run.sh
+./scripts/run.sh <name of point cloud file within current directory>
 ```
 
 
