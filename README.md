@@ -4,7 +4,7 @@
 
 
 
-## Environment Setup
+## Commands
 
 ```bash
 
@@ -14,11 +14,6 @@ chmod +x scripts/*
 ./scripts/run.sh
 ```
 
-
-
-```bash
-
-```
 
  # Difference of With and Without DiffBIR
 
