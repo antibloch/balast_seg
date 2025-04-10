@@ -25,4 +25,6 @@ pip install opencv-python
 
 pip install open3d
 
+pip install laspy
 
+pip install lazrs[cli]  # Install lazrs as the compression backend
