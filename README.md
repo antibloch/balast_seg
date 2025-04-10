@@ -1,6 +1,6 @@
  # Flow
  
- orthographic_projection -> DiffBIR -> IR_post_process -> orthographic_projection
+ orthographic_projection -> DiffBIR -> IR_post_process -> inverse_orthographic_projection
 
 
 
@@ -47,6 +47,13 @@ chmod +x scripts/*
 # Project The Segmentation to Point Cloud
 
 ![Screenshot from 2025-03-14 13-59-22](https://github.com/user-attachments/assets/5ea74fdf-3990-4a1f-a0bb-9c97c7a99246)
+
+
+# Thresholding of segmentation from Ground
+
+![Screenshot from 2025-04-10 11-42-47](https://github.com/user-attachments/assets/d1e75df4-199b-4406-a907-11ca0837e892)
+
+
 
 
 
