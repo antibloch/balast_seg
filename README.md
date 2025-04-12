@@ -1,6 +1,6 @@
  # Flow
  
- orthographic_projection &rarr DiffBIR &rarr IR_post_process &rarr inverse_orthographic_projection
+ orthographic_projection → DiffBIR → IR_post_process → inverse_orthographic_projection
 
 
 
